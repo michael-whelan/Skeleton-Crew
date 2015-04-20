@@ -1,0 +1,70 @@
+station: 0
+x: 520, y: 180
+circle: 0
+x: 4620, y: 180
+created: 7
+x: 5612,	 y: -420
+create criteria:
+x: 4620,	 y: 180,	 radius: 2000
+created station: 2
+x: 5612,	 y: -420
+
+
+station: 0
+x: 520, y: 180
+circle: 1
+x: 3520, y: 3180
+created: 6
+x: 2282,	 y: 3526
+create criteria:
+x: 3520,	 y: 3180,	 radius: 2000
+created station: 3
+x: 2282,	 y: 3526
+
+
+station: 0
+x: 520, y: 180
+circle: 2
+x: 3520, y: -2820
+created: 1
+x: 5058,	 y: -2070
+create criteria:
+x: 3520,	 y: -2820,	 radius: 2000
+created station: 4
+x: 5058,	 y: -2070
+
+
+station: 0
+x: 520, y: 180
+circle: 3
+x: 520, y: 4280
+created: 2
+x: 2120,	 y: 4688
+create criteria:
+x: 520,	 y: 4280,	 radius: 2000
+created station: 5
+x: 2120,	 y: 4688
+
+
+station: 0
+x: 520, y: 180
+circle: 4
+x: 520, y: -3920
+created: 9
+x: 1049,	 y: -4589
+create criteria:
+x: 520,	 y: -3920,	 radius: 2000
+created station: 6
+x: 1049,	 y: -4589
+
+
+
+
+
+
+
+
+
+
+
+
