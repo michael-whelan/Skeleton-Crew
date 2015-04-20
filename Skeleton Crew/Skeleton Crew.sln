@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Skeleton Crew", "Skeleton Crew\Skeleton Crew.vcxproj", "{5FAAF89A-8478-42F7-BE70-BBC5A7B28ED7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02C44F8F-8BC6-4738-9686-EEC434AA296D}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+		Performance2.psess = Performance2.psess
+	EndProjectSection
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup1", "Setup1\Setup1.isproj", "{20D567B4-6DC4-4CB9-8B23-BE085E8917B7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5FAAF89A-8478-42F7-BE70-BBC5A7B28ED7} = {5FAAF89A-8478-42F7-BE70-BBC5A7B28ED7}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Win32 = CD_ROM|Win32
+		Debug|Win32 = Debug|Win32
+		DVD-5|Win32 = DVD-5|Win32
+		Release|Win32 = Release|Win32
+		SingleImage|Win32 = SingleImage|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FAAF89A-8478-42F7-BE70-BBC5A7B28ED7}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{5FAAF89A-8478-42F7-BE70-BBC5A7B28ED7}.CD_ROM|Win32.Build.0 = Release|Win32
+		{5FAAF89A-8478-42F7-BE70-BBC5A7B28ED7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5FAAF89A-8478-42F7-BE70-BBC5A7B28ED7}.Debug|Win32.Build.0 = Debug|Win32
+		{5FAAF89A-8478-42F7-BE70-BBC5A7B28ED7}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{5FAAF89A-8478-42F7-BE70-BBC5A7B28ED7}.DVD-5|Win32.Build.0 = Debug|Win32
+		{5FAAF89A-8478-42F7-BE70-BBC5A7B28ED7}.Release|Win32.ActiveCfg = Release|Win32
+		{5FAAF89A-8478-42F7-BE70-BBC5A7B28ED7}.Release|Win32.Build.0 = Release|Win32
+		{5FAAF89A-8478-42F7-BE70-BBC5A7B28ED7}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{5FAAF89A-8478-42F7-BE70-BBC5A7B28ED7}.SingleImage|Win32.Build.0 = Release|Win32
+		{20D567B4-6DC4-4CB9-8B23-BE085E8917B7}.CD_ROM|Win32.ActiveCfg = CD_ROM
+		{20D567B4-6DC4-4CB9-8B23-BE085E8917B7}.CD_ROM|Win32.Build.0 = CD_ROM
+		{20D567B4-6DC4-4CB9-8B23-BE085E8917B7}.Debug|Win32.ActiveCfg = DVD-5
+		{20D567B4-6DC4-4CB9-8B23-BE085E8917B7}.Debug|Win32.Build.0 = DVD-5
+		{20D567B4-6DC4-4CB9-8B23-BE085E8917B7}.DVD-5|Win32.ActiveCfg = DVD-5
+		{20D567B4-6DC4-4CB9-8B23-BE085E8917B7}.DVD-5|Win32.Build.0 = DVD-5
+		{20D567B4-6DC4-4CB9-8B23-BE085E8917B7}.Release|Win32.ActiveCfg = SingleImage
+		{20D567B4-6DC4-4CB9-8B23-BE085E8917B7}.Release|Win32.Build.0 = SingleImage
+		{20D567B4-6DC4-4CB9-8B23-BE085E8917B7}.SingleImage|Win32.ActiveCfg = SingleImage
+		{20D567B4-6DC4-4CB9-8B23-BE085E8917B7}.SingleImage|Win32.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
