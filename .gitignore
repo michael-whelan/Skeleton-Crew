@@ -1,43 +1,32 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+*.exe
+*.ilk
+*.pdb
+*.sdf
+*.suo
+*.obj
+*.tlog
+*.idb
+*.pdb
+*.log
+*.opensdf
+*.sdf
+*.ilk
+*.pdb
+*.sdf
+*.suo
+*.tlog
+*.log
+*.idb
+*.pdb
+*.sdf
+*.suo
+*.lastbuildstate
+*.lastbuildstate
+*.unsuccessfulbuild
+*.lastbuildstate
+Skeleton Crew/Skeleton Installer Setup/Skeleton Installer Setup/Express/DVD-5/LogFiles/2-19-2015 12-25-47 PM.txt
+Skeleton Crew/Skeleton Installer Setup/Skeleton Installer Setup/Express/DVD-5/Reports/2-19-2015 12-25-51 PM.htm
+Skeleton Crew/Skeleton Crew.v11.suo
+*.suo
+Skeleton Crew/Skeleton Installer Setup/Skeleton Installer Setup.isl
+*.isl
